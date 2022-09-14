@@ -5,7 +5,7 @@
 ..I have worked 34 years with Mac's
 Creating MacTimetable, a school timetable program
 from analysis to a commercial package.
-
+(Still constructing this)
 - 📫 How to reach me ...
 
 <!---
