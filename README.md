@@ -2,6 +2,7 @@
 - 👀 I’m interested in c++ 
 - 🌱 I’m currently learning Swift and  exploring github
 - 💞️ I’m looking to collaborate on .
+- 
 ..I have worked 35 years with Mac's and before Apple"TOO"
 Created MacTimetable, a school timetable program
 from analysis to a commercial package.
@@ -19,7 +20,7 @@ Option 1: Trying to sell the thing
 Option 2: Putting the code (c++) on GitHub for archeology.
 Option 3: Any Ideas from you? 
 
-- 📫 paulasselbers1@yahoo.com
+- 📫 paulasselbergs1@yahoo.com
 
 <!---
 PaulAsselbergs/PaulAsselbergs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
