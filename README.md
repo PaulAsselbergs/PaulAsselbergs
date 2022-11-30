@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on .
 - 
 ..I have worked 35 years with Mac's and before Apple"TOO"
+
 Created MacTimetable, a school timetable program
 from analysis to a commercial package.
 MacTimetable v2.0 is a MacOS Carbon application which is now outdated.
